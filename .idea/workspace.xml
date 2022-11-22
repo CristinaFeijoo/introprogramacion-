@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="710534b3-a3f4-45a6-a41e-c97a97218f2d" name="Changes" comment="" />
+    <list default="true" id="710534b3-a3f4-45a6-a41e-c97a97218f2d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CondicionalAnidada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CondicionalAnidada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TareaIntroducion16/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TareaIntroducion16/ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructura_for/DivisorFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_for/DivisorFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructura_for/FactorialFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_for/FactorialFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructura_for/SumaImpares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_for/SumaImpares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructura_for/TablaAsterisco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_for/TablaAsterisco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructura_for/TrianguloAsterisco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_for/TrianguloAsterisco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructura_for/tablamultiplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_for/tablamultiplicacion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GxdzmAt3y8x0suJxj4NiM5fECy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +40,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/crist/IdeaProjects/Intro2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructura_for.tablamultiplicacion" />
+      <module name="Intro2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +64,70 @@
       <option name="presentableId" value="Default" />
       <updated>1667334436533</updated>
     </task>
+    <task id="LOCAL-00001" summary="TablaMultiplicacion">
+      <created>1668549343411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668549343413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sumapares">
+      <created>1668549712567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668549712567</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tarea">
+      <created>1668615957732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668615957732</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="a308e1f7-ca08-4fd5-b2de-5e0beded6185">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/crist/IdeaProjects/Intro2/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a308e1f7-ca08-4fd5-b2de-5e0beded6185" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TablaMultiplicacion" />
+    <MESSAGE value="sumapares" />
+    <MESSAGE value="Tarea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea" />
   </component>
 </project>

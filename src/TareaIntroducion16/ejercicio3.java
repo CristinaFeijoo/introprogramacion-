@@ -6,13 +6,13 @@ public class ejercicio3 {
             System.out.println("Ingrese dos numeros enteros");
             int num_1 = teclado.nextInt();
             int num_2 = teclado.nextInt();
-            if (num_1 >= num_2) && (num_1%num_2=0) {
+            if ((num_1 >= num_2) && (num_1%num_2==0)){
                 System.out.println("El numero numero menor es divisor del mayor");
-            }else if (num_2 >= num_1) && (num_2%num_1=0){
+            }else if ((num_2 >= num_1) && (num_2%num_1==0))
                 System.out.println("El numero mayor es divisor del menor");
-                else
+            else
                 System.out.println("Error");
-            }
+
         }
     }
 
