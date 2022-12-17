@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="710534b3-a3f4-45a6-a41e-c97a97218f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Semana2/Arreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana2/ArregloMarca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana2/arreglos2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="710534b3-a3f4-45a6-a41e-c97a97218f2d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
