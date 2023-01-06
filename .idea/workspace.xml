@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="710534b3-a3f4-45a6-a41e-c97a97218f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bimestre2/Insercion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bimestre2/NumeroBinario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bimestre2/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bimestre2/cuentabanco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bimestre2/fichaclase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana4/MatrizMarcaVehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana4/MatrizTranspuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana4/PotenciaMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana4/PromedioMatriz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semana4/Matriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana4/Matriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semana4/SumaMatriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana4/SumaMatriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semana4/matrizEscritura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana4/matrizEscritura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager">
     <configuration name="Arreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Semana2.Arreglo" />
       <module name="Intro2" />
