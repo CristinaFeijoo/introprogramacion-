@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="710534b3-a3f4-45a6-a41e-c97a97218f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Semana4/MatrizMarcaVehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana4/MatrizTranspuesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana4/PotenciaMatriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana4/PromedioMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana5/AreaFiguras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana5/ClaseConMetodoCONRetornovalor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana5/ClaseConMetodoSinRetornovalor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semana4/Matriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana4/Matriz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semana4/SumaMatriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana4/SumaMatriz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semana4/matrizEscritura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana4/matrizEscritura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
