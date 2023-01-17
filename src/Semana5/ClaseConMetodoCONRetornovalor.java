@@ -38,6 +38,6 @@ public class ClaseConMetodoCONRetornovalor {
     }
     public static int sumar (int n1 ,int n2 ,int n3){
         int resultado= n1+n2+n3;
-        re
+        return n1;
     }
 }

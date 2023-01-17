@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class CondicionalDoble {
-    public static void main(String[] args) {
+    public static void VGmB
+               (String[] args) {
         Scanner teclado=new Scanner(System.in);
         System.out.println("PROGRAMA PARA DETERMINAR MAYORIA DE EDAD");
         System.out.println("ingrese su edad");

@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="710534b3-a3f4-45a6-a41e-c97a97218f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Semana5/AreaFiguras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana5/ClaseConMetodoCONRetornovalor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana5/ClaseConMetodoSinRetornovalor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana6/AmbitoVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana6/CajeroMetodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana6/OperacionAritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana6/Verificacion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CondicionalDoble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CondicionalDoble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semana5/ClaseConMetodoCONRetornovalor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana5/ClaseConMetodoCONRetornovalor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectId" id="2GxdzmAt3y8x0suJxj4NiM5fECy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,11 +43,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowProblems.ShowToolbar&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/crist/IdeaProjects/Intro2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TEST">
     <configuration name="Arreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Semana2.Arreglo" />
       <module name="Intro2" />
@@ -55,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST" />
+      <module name="Intro2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estructura_for.tablamultiplicacion" />
       <module name="Intro2" />
@@ -64,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TEST" />
         <item itemvalue="Application.Arreglo" />
       </list>
     </recent_temporary>
@@ -104,6 +119,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="a308e1f7-ca08-4fd5-b2de-5e0beded6185">
           <value>
             <State>
